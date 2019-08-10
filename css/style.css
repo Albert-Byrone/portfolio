@@ -60,3 +60,22 @@ nav {
     .about {
       margin-left: 150px;
     }
+    .job {
+      float: right;
+    }
+    .education {
+      float: left;
+      clear: both;
+    }
+    .skills {
+      clear: both;
+    }
+    span {
+      font-weight: bold;
+    }
+    .push {
+      margin-left: 80px;
+    }
+    #hobby li {
+      list-style-type: disc;
+    }
