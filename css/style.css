@@ -60,13 +60,17 @@ nav {
     .about {
       margin-left: 150px;
     }
+
+    /* Job section */
     .job {
       float: right;
     }
+    /* education section */
     .education {
       float: left;
       clear: both;
     }
+    /* the skills section */
     .skills {
       clear: both;
     }
@@ -79,3 +83,7 @@ nav {
     #hobby li {
       list-style-type: disc;
     }
+    .project {
+      margin-left: 150px;
+    }
+    
