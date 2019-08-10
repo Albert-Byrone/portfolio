@@ -34,4 +34,25 @@ nav {
   }
   nav img {
     width: 100%;
+  }
+  /* header */
+  header {
+    text-align: center;
+    height:120px;
+  
+    }
+    header h1 {
+    font-weight: bold;
+    font-size: 4em;
+    letter-spacing: 2px;
+    }
+    header h5 {
+    font-weight: 300;
+    font-size: 1em;
+    letter-spacing: 4px;
+    color: #b2b2b2;
+    }
+    header img {
+    width: 580px;
+    border-radius: 300px;
     }
