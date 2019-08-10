@@ -89,3 +89,7 @@ nav {
       margin-left: 150px;
     }
     
+    h5:hover {
+      color: black;
+      cursor: pointer;
+    }
