@@ -52,7 +52,7 @@ nav {
     font-weight: 300;
     font-size: 1em;
     letter-spacing: 4px;
-    color: #b2b2b2;
+    color: black;
     }
     header img {
     width: 580px;
@@ -90,6 +90,6 @@ nav {
     }
     
     h5:hover {
-      color: black;
+      color:orange;
       cursor: pointer;
     }
