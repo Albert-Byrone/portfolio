@@ -32,3 +32,6 @@ nav {
   aside a:hover {
 	color: orange;
   }
+  nav img {
+    width: 100%;
+    }
